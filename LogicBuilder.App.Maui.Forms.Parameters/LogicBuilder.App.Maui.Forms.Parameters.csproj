@@ -11,7 +11,7 @@
 		<IncludeSymbols>true</IncludeSymbols>
 		<SymbolPackageFormat>snupkg</SymbolPackageFormat>
 		<EmbedUntrackedSources>true</EmbedUntrackedSources>
-		<Description>The parameter classes in this library serve as a contract between the Logic Builder application and the .NET MAUI applications it defines. The parameters define the functionality of the forms including layout, controls utilized, their validation and their visibility.</Description>
+		<Description>The parameter classes in this library serve as a contract between the Logic Builder application and the .NET MAUI applications it defines. The parameters define the functionality of the ecreens including layout, controls utilized, their validation and their visibility.</Description>
 		<PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
 		<PackageReleaseNotes>First release.</PackageReleaseNotes>
 		<PackageTags>form configuration</PackageTags>
