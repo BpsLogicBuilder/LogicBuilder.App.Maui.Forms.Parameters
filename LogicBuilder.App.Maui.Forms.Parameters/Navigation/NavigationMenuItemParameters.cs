@@ -15,6 +15,9 @@ namespace LogicBuilder.App.Maui.Forms.Parameters.Navigation
         [ParameterEditorControl(ParameterControlType.DomainAutoComplete)]
         string icon = "Home",
 
+        [Comments("Is the menu item active.")]
+        bool active = true,
+
         [Comments("Optional list of submenu items.")]
         List<NavigationMenuItemParameters>? SubItems = null
     )
@@ -22,7 +25,7 @@ namespace LogicBuilder.App.Maui.Forms.Parameters.Navigation
         public string InitialModule { get; } = initialModule;
         public string Text { get; } = text;
         public string Icon { get; } = icon;
-        public bool Active { get; }
+        public bool Active { get; } = active;
         public List<NavigationMenuItemParameters>? SubItems { get; } = SubItems;
     }
 }
