@@ -4,6 +4,7 @@
 [![CodeQL](https://github.com/BpsLogicBuilder/LogicBuilder.App.Maui.Forms.Parameters/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/BpsLogicBuilder/LogicBuilder.App.Maui.Forms.Parameters/actions/workflows/github-code-scanning/codeql)
 [![codecov](https://codecov.io/github/BpsLogicBuilder/LogicBuilder.App.Maui.Forms.Parameters/graph/badge.svg?token=HNP9ELDBSP)](https://codecov.io/github/BpsLogicBuilder/LogicBuilder.App.Maui.Forms.Parameters)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=BpsLogicBuilder_LogicBuilder.App.Maui.Forms.Parameters&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=BpsLogicBuilder_LogicBuilder.App.Maui.Forms.Parameters)
+[![NuGet](https://img.shields.io/nuget/v/LogicBuilder.App.Maui.Forms.Parameters.svg)](https://www.nuget.org/packages/LogicBuilder.App.Maui.Forms.Parameters)
 
 A .NET Standard 2.0 library that provides parameter classes serving as a contract between the Logic Builder application and .NET MAUI applications.
 
